@@ -169,7 +169,7 @@ body{
 @media (min-width: 768px) and (max-width: 992px){
     .container {
         width: 100%; /* Занимает всю ширину экрана */
-        padding: 0 20px; /* Отступы слева и справа */
+        padding: 0 40px; /* Отступы слева и справа */
  /* Чтобы padding не увеличивал ширину */
     }
 
